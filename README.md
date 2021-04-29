@@ -166,8 +166,10 @@ The Mission_to_Mars_Challenge.ipynb file with all the code used for scraping.
 https://github.com/Dybondzy/portfolio/blob/main/Mission_to_Mars_Challenge.ipynb
 
 An updated scraping.py file.
+https://github.com/Dybondzy/portfolio/blob/main/scraping.py
 
 The app.py file.
+https://github.com/Dybondzy/portfolio/blob/main/app.py
 
 The index.html file in the template folder and any CSS stylesheets.
 
