@@ -172,6 +172,7 @@ The app.py file.
 https://github.com/Dybondzy/portfolio/blob/main/app.py
 
 The index.html file in the template folder and any CSS stylesheets.
+https://github.com/Dybondzy/portfolio/blob/main/index.html
 
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
 https://github.com/Dybondzy/portfolio/edit/main/README.md
